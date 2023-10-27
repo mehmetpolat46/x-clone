@@ -8,10 +8,11 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+firebase
 dist
 dist-ssr
 *.local
-config.jsx
+
 
 # Editor directories and files
 .vscode/*
